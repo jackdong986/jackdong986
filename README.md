@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **asp.net, kotlin, python**
 
-- 👨‍💻 All of my projects are available at [here (coming soon)](here (coming soon))
+- 👨‍💻 All of my projects are coming soon
 
-- 📫 How to reach me **jackdong986@gmail.com**
+- 📫 How to reach me **❤️**
 
 - ⚡ Fun fact **I am sleepy right now 💤**
 
