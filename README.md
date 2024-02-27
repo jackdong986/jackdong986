@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackdong986
+- 👋 Hi, I’m Jack Dong
 - 👀 I’m interested in sing, jump & rap
 - 🌱 I’m currently learning at playing basketball and want to become a 练习生
 - 💞️ I’m looking to collaborate on other 练习生 that had already practise 2year and half ago
