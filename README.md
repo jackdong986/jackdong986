@@ -31,7 +31,5 @@
 ###
 
 <br clear="both">
-
-
-
+![Snake animation](https://github.com/jackdong986/jackdong986/blob/main/github-contribution-grid-snake.svg)
 ###
