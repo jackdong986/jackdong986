@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **my life**
 
-- 🌱 I’m currently learning **asp.net, kotlin, python**
+- 🌱 I’m currently learning **asp.net, kotlin, python, php, transformers (ai)**
 
 - 👨‍💻 All of my projects are coming soon
 
 - 📫 How to reach me **❤️**
 
-- ⚡ Fun fact **I am sleepy right now 💤**
+- ⚡ Fun fact **I am doing my final year project right now 🔥**
 
 <p align="left">
 </p>
