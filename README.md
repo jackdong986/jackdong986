@@ -26,7 +26,7 @@ deliver innovative and effective solutions.
 
 * 🌍  I'm based in Malaysia 🇲🇾
 * 🖥️  See my portfolio at [Jack Dong](http://github.com/jackdong986/jackdong986)
-* ✉️  You can contact me at [jackdong986@gmail.com](mailto:jackdong986@gmail.com)
+* ✉️  You can contact me at [weijie.dong@flexinfra.com.my](mailto:weijie.dong@flexinfra.com.my)
 * 🧠  I'm currently learning AI Stack
 * 💬  Ask me about I am feeeeling sleepy right now but need more coffee to working on my life
 
