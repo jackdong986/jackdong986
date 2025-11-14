@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jack Dong
 ==================================================================================================================================
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackdong986&label=Profile%20views&color=0e75b6&style=flat" alt="jackdong986" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackdong986" alt="jackdong986" /></a> </p>
+
 A passionate software engineer from Malaysia
 --------------------------------------------
 
