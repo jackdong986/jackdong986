@@ -49,11 +49,6 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackdong986&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Jack's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackdong986&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackdong986&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="Streak Stats" />
 </p>
 
@@ -68,6 +63,14 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 - **Portfolio:** [jack-portfolio](https://github.com/jackdong986/jack-portfolio)
 - **Email:** [weijie.dong@flexinfra.com.my](mailto:weijie.dong@flexinfra.com.my)
 - **GitHub:** [@jackdong986](https://github.com/jackdong986)
+
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZyOXBsaWJreTk4OHUyeHJtam41OWVvdGFtdWxqMzN5MGd0NTFzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RvjGfGRQpjCihPf47g/giphy.gif" width="200" alt="Karina" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWF2OHI3b3pvbTJzeXU1OHRoOGh4ZW5lanR1MHZ0aTJjMDExNmk5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CDKMotGQFy0NXqMAH7/giphy.gif" width="300" alt="Taeyeon" />
+</p>
 
 ---
 <p align="center">
