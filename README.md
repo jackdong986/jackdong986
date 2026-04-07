@@ -56,7 +56,7 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 ---
 
 ### 📫 Let's Connect!
-- **Portfolio:** [jackdong986.github.io](http://github.com/jackdong986/jackdong986)
+- **Portfolio:** [jack-portfolio](https://github.com/jackdong986/jack-portfolio)
 - **Email:** [weijie.dong@flexinfra.com.my](mailto:weijie.dong@flexinfra.com.my)
 - **GitHub:** [@jackdong986](https://github.com/jackdong986)
 
@@ -64,10 +64,4 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 <p align="center">
   <i>"Stay hungry, stay caffeinated."</i>
 </p>
-###
 
-<br clear="both">
-
-![Snake animation](https://github.com/jackdong986/jackdong986/blob/main/github-contribution-grid-snake.svg)
-
-###
