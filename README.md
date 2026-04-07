@@ -64,13 +64,12 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 - **Email:** [weijie.dong@flexinfra.com.my](mailto:weijie.dong@flexinfra.com.my)
 - **GitHub:** [@jackdong986](https://github.com/jackdong986)
 
-<p>
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZyOXBsaWJreTk4OHUyeHJtam41OWVvdGFtdWxqMzN5MGd0NTFzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RvjGfGRQpjCihPf47g/giphy.gif" width="200" alt="Karina" />
-</p>
 
-<p>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWF2OHI3b3pvbTJzeXU1OHRoOGh4ZW5lanR1MHZ0aTJjMDExNmk5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CDKMotGQFy0NXqMAH7/giphy.gif" width="300" alt="Taeyeon" />
 </p>
+
 
 ---
 <p align="center">
