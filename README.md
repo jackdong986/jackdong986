@@ -1,7 +1,4 @@
 # Hi there, I'm Jack Dong (Wei Jie) 👋 🇲🇾
-<p>
-* **🔊 SYSTEM_ALERT:** <a href="https://www.myinstants.com/en/instant/fahhhhhhhhhhhhhh-3525/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%94%8A_PLAY_AUDIO-FAHHHHH-bc13fe?style=for-the-badge" alt="Play Audio" /></a>
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jackdong986&label=Profile%20views&color=0e75b6&style=flat-square" alt="jackdong986" />
