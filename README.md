@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I am a **Software Engineer** based in Malaysia, dedicated to building robust web solutions and exploring the cutting edge of technology. With a foundation ranging from low-level **8086 Assembly** to modern **Kotlin** and **Python** applications, I bridge the gap between complex logic and user-friendly design.
 
-- 🧠 **Current Focus:** Deep diving into the **AI Stack** and LLM integration.
+- 🧠 **Current Focus:** Deep diving into the LLM integration.
 - ⚡ **Fun Fact:** I'm likely powered by coffee right now to keep the code flowing.
 - 🎨 **Creative Edge:** I leverage **Adobe Photoshop** and **Premiere Pro** to bring a visual flair to my technical projects.
 
