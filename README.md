@@ -61,7 +61,7 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 
 ### 📫 Let's Connect!
 - **Portfolio:** [jack-portfolio](https://github.com/jackdong986/jack-portfolio)
-- **Email:** [weijie.dong@flexinfra.com.my](mailto:weijie.dong@flexinfra.com.my)
+- **Email:** [weijie.dong@flexinfra.com.my](mailto:jackdong986@gmail.com)
 - **GitHub:** [@jackdong986](https://github.com/jackdong986)
 - **LinkedIn:** [jack-dong-564b283a7](https://www.linkedin.com/in/jack-dong-564b283a7)
 
