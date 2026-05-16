@@ -60,7 +60,7 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 ---
 
 ### 📫 Let's Connect!
-- **Portfolio:** [jack-portfolio](https://github.com/jackdong986/jack-portfolio)
+- **Portfolio:** [jack-portfolio](https://jack-portfolio-omega.vercel.app)
 - **Email:** [jackdong986@gmail.com](mailto:jackdong986@gmail.com)
 - **GitHub:** [@jackdong986](https://github.com/jackdong986)
 - **LinkedIn:** [jack-dong-564b283a7](https://www.linkedin.com/in/jack-dong-564b283a7)
