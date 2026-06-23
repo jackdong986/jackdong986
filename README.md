@@ -20,10 +20,10 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Java` `Kotlin` `Python` `JavaScript` `C#` `C++` `8086 Assembly` |
+| **Languages** | `Java` `Kotlin` `Python` `JavaScript` `C#` `C++` |
 | **Frontend** | `React` `Vite` `HTML5` `CSS3` `Bootstrap` `ASPX` |
-| **Backend** | `Node.js` `Flask` `MySQL` `Firebase` |
-| **DevOps & AI** | `Docker` `Kubernetes` `Git` `Hugging Face` |
+| **Backend** | `Node.js` `Flask` `Firebase` |
+| **DevOps & AI** | `Docker` `Kubernetes` `Git` `Jupyter` `Hugging Face` |
 | **Design** | `Figma` `Photoshop` `Premiere Pro` |
 
 <p align="left">
@@ -35,7 +35,6 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
