@@ -62,7 +62,7 @@ I am a **Software Engineer** based in Malaysia, dedicated to building robust web
 - **Portfolio:** [jack-portfolio](https://jack-portfolio-omega.vercel.app)
 - **Email:** [jackdong986@gmail.com](mailto:jackdong986@gmail.com)
 - **GitHub:** [@jackdong986](https://github.com/jackdong986)
-- **LinkedIn:** [jack-dong-564b283a7](https://www.linkedin.com/in/jack-dong-564b283a7)
+- **LinkedIn:** [Dong Wei Jie](https://www.linkedin.com/in/dong-wei-jie-564b283a7)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZyOXBsaWJreTk4OHUyeHJtam41OWVvdGFtdWxqMzN5MGd0NTFzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RvjGfGRQpjCihPf47g/giphy.gif" width="200" alt="Karina" />
